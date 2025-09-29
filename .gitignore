@@ -1,0 +1,13 @@
+# Python venv
+.venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+instance/
+
+# VS Code settings
+.vscode/
